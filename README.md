@@ -1,4 +1,4 @@
-# htmlcss_homework
+# htmlcss homework
 
 大学授業の課題, UI/UXの練習
 
